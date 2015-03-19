@@ -1,0 +1,7 @@
+"TWAIN SANE Interface" = "TWAIN SANE インターフェース";
+"WrongVersionTitle" = "Mac OS X のバージョンが正しくありません";
+"WrongVersionMessage" = "このパッケージはバージョン @MACOSX_DEPLOYMENT_TARGET@ 向けにコンパイルされています。";
+"NoLibusbTitle" = "libusb が見つかりません";
+"NoLibusbMessage" = "TWAIN SANE インターフェースパッケージをインストールする前に、libusb パッケージをインストールしてください。";
+"NoSANETitle" = "sane-backends が見つかりません";
+"NoSANEMessage" = "TWAIN SANE インターフェースパッケージをインストールする前に、sane-backend パッケージをインストールしてください。";

@@ -1,0 +1,7 @@
+"TWAIN SANE Interface" = "TWAIN SANE Grænseflade";
+"WrongVersionTitle" = "Forkert udgave af Mac OS X";
+"WrongVersionMessage" = "Denne pakke er bygget til version @MACOSX_DEPLOYMENT_TARGET@.";
+"NoLibusbTitle" = "libusb ikke fundet";
+"NoLibusbMessage" = "Installér venligst pakken libusb, før du installerer pakken TWAIN SANE Grænseflade.";
+"NoSANETitle" = "sane-backends ikke fundet";
+"NoSANEMessage" = "Installér venligst pakken sane-backends, før du installerer pakken TWAIN SANE Grænseflade.";

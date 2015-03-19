@@ -1,0 +1,6 @@
+"WrongVersionTitle" = "Versione di Mac OS X non corretta";
+"WrongVersionMessage" = "Questo package funziona con @MACOSX_DEPLOYMENT_TARGET@.";
+"NoLibusbTitle" = "libusb non trovato";
+"NoLibusbMessage" = "Installare il package libusb prima di installare il package Interfaccia TWAIN SANE.";
+"NoSANETitle" = "sane-backends non trovato";
+"NoSANEMessage" = "Installare il package sane-backend prima di installare il package Interfaccia TWAIN SANE.";

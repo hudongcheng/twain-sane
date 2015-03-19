@@ -1,0 +1,7 @@
+"TWAIN SANE Interface" = "TWAIN-SANE-Gränssnitt";
+"WrongVersionTitle" = "Fel version av Mac OS X";
+"WrongVersionMessage" = "Detta paket kompilerades för version @MACOSX_DEPLOYMENT_TARGET@.";
+"NoLibusbTitle" = "libusb hittades inte";
+"NoLibusbMessage" = "Vänligen installera libusb-paketet innan installationen av TWAIN-SANE-Gränssnitt-paketet.";
+"NoSANETitle" = "sane-backends hittades inte";
+"NoSANEMessage" = "Vänligen installera sane-backend-paketet innan installationen av TWAIN-SANE-Gränssnitt-paketet.";

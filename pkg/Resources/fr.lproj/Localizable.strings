@@ -1,0 +1,7 @@
+"TWAIN SANE Interface" = "Interface TWAIN SANE";
+"WrongVersionTitle" = "Fausse version de Mac OS X";
+"WrongVersionMessage" = "Ce paquet à été compilé pour version @MACOSX_DEPLOYMENT_TARGET@.";
+"NoLibusbTitle" = "libusb pas trouvé";
+"NoLibusbMessage" = "Installez le paquet libusb avant l’installation du paquet de Interface TWAIN SANE, s.v.p.";
+"NoSANETitle" = "sane-backends pas trouvé";
+"NoSANEMessage" = "Installez le paquet sane-backends avant l’installation du paquet de Interface TWAIN SANE, s.v.p.";
